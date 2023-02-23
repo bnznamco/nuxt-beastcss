@@ -1,6 +1,6 @@
 {
   "name": "nuxt-beastcss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fast Critical CSS for Nuxt",
   "keywords": [
     "performance",
