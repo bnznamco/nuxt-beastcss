@@ -1,7 +1,9 @@
 <template>
   <div :class="toggle ? 'class' : 'unused-class'">
     beastcss !
-    <button @click="toggle = !toggle">Toggle class</button>
+    <button @click="toggle = !toggle">
+      Toggle class
+    </button>
   </div>
 </template>
 
