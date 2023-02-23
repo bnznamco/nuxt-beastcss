@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.2.2",
-    "beastcss": "https://github.com/bnznamco/beastcss/releases/download/bnznamco-2.1.2/beastcss-2.1.2.tgz",
+    "beastcss": "^2.1.2",
     "consola": "^2.15.3",
     "pathe": "^1.1.0"
   },
