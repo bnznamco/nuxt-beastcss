@@ -12,7 +12,7 @@ const handleErrors = (unprocessedHtml: string) => (error: Error) => {
 
 export interface ModuleOptions {
   // Options passed directly to `beastcss`
-  config?: Options
+  config?: Partial<Options>;
 }
 
 export default defineNuxtModule<ModuleOptions>({
