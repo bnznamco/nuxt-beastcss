@@ -110,7 +110,7 @@ npm run release
 
 ## 👏 Thanks
 
-Thanks to [@freddy38510](https://github.com/freddy38510) for his work on [beastcss](https://github.com/freddy38510/beastcss)!
+Thanks to [@freddy38510](https://github.com/freddy38510) for his work on [beastcss](https://github.com/freddy38510/beastcss) and thanks to [@leeoniya](https://github.com/leeoniya) for [dropcss](https://github.com/leeoniya/dropcss) the magic behind HTML parsing speed.
 
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-beastcss/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
