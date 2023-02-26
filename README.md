@@ -29,6 +29,7 @@ Find and replace all on all files (CMD+SHIFT+F):
 - 🧼 &nbsp;Removes injected CSS from main files
 - ⚡️ &nbsp;Lightning fast
 - 🎭️ &nbsp;Working both in ssr and generate mode
+- 👯 &nbsp;Both __Nuxt 3__ and __Nuxt 2__ supported.
 
 
 ## 📦 Quick Setup
