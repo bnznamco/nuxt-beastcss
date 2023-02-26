@@ -21,7 +21,6 @@ export default defineNuxtModule<ModuleOptions>({
     configKey: 'beastcss',
   },
   defaults: {
-    // @ts-ignore Config needs to be merged
     config: {
       pruneSource: true,
     },
